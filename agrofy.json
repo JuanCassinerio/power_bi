@@ -23968,6 +23968,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"B.Blanca",
+        "Producto":"Girasol",
+        "Precio":307.9,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"B.Blanca",
         "Producto":"Maiz",
@@ -38924,6 +38931,13 @@
         "Mercado":"B.Blanca",
         "Producto":"Maiz",
         "Precio":173.82,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-07",
+        "Mercado":"B.Blanca",
+        "Producto":"Maiz",
+        "Precio":174.81,
         "is_outlier":false
     },
     {
@@ -60487,6 +60501,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"B.Blanca",
+        "Producto":"Soja",
+        "Precio":294.01,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2010-06-03",
         "Mercado":"B.Blanca",
         "Producto":"Sorgo",
@@ -76801,6 +76822,13 @@
         "Mercado":"B.Blanca",
         "Producto":"Trigo",
         "Precio":201.63,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-07",
+        "Mercado":"B.Blanca",
+        "Producto":"Trigo",
+        "Precio":201.62,
         "is_outlier":false
     },
     {
@@ -120785,6 +120813,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"C\u00f3rdoba",
+        "Producto":"Trigo",
+        "Precio":200.63,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Girasol",
@@ -142107,6 +142142,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Girasol",
+        "Precio":307.9,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2005-01-27",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Maiz",
@@ -149972,6 +150014,13 @@
         "Mercado":"Quequ\u00e9n",
         "Producto":"Maiz",
         "Precio":171.04,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-07",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Maiz",
+        "Precio":170.83,
         "is_outlier":false
     },
     {
@@ -167916,6 +167965,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Soja",
+        "Precio":286.05,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Trigo",
@@ -178795,6 +178851,13 @@
     },
     {
         "Fecha":"2025-08-06",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Trigo",
+        "Precio":193.68,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-07",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Trigo",
         "Precio":193.68,
@@ -218316,6 +218379,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"Rosario",
+        "Producto":"Maiz",
+        "Precio":174.75,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"Rosario",
         "Producto":"Soja",
@@ -248640,6 +248710,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-07",
+        "Mercado":"Rosario",
+        "Producto":"Soja",
+        "Precio":294.23,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2005-01-21",
         "Mercado":"Rosario",
         "Producto":"Sorgo",
@@ -265143,6 +265220,13 @@
         "Mercado":"Rosario",
         "Producto":"Sorgo",
         "Precio":173.8,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-07",
+        "Mercado":"Rosario",
+        "Producto":"Sorgo",
+        "Precio":173.77,
         "is_outlier":false
     },
     {
@@ -285534,6 +285618,13 @@
         "Mercado":"Rosario",
         "Producto":"Trigo",
         "Precio":201.2,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-07",
+        "Mercado":"Rosario",
+        "Producto":"Trigo",
+        "Precio":201.13,
         "is_outlier":false
     }
 ]
