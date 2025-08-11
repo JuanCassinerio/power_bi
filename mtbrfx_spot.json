@@ -348713,5 +348713,130 @@
         "Fecha":"2025-08-07",
         "SPOT":"CAUC - P50",
         "Precio":39.88
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"D\u00f3lar BNA",
+        "Precio":1321.5
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"D\u00f3lar MtR",
+        "Precio":1325.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"D\u00f3lar BCRA A3500",
+        "Precio":1329.4167
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Euro",
+        "Precio":1548.505
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Petr\u00f3leo Crudo WTI CME",
+        "Precio":63.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Soja Chicago",
+        "Precio":355.23
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Ma\u00edz Chicago",
+        "Precio":150.68
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Oro CME",
+        "Precio":3439.1
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Indice CCL",
+        "Precio":1326.31
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Yuan CNH",
+        "Precio":185.0447
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"GGAL",
+        "Precio":6780.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"YPFD",
+        "Precio":45725.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"PAMP",
+        "Precio":3980.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"RFX20",
+        "Precio":340262.74
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Indice MEP",
+        "Precio":1329.3
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Indice Bitcoin",
+        "Precio":154797957.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"TXAR",
+        "Precio":633.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"AL30",
+        "Precio":80400.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"AL30D",
+        "Precio":60.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"GD30",
+        "Precio":83300.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"Indice CER",
+        "Precio":613.94
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"D\u00f3lar UST ART 000",
+        "Precio":1326.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"AL35",
+        "Precio":87520.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"GD35",
+        "Precio":88850.0
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"CAUC - P50",
+        "Precio":43.85
     }
 ]
