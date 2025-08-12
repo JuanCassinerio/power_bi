@@ -348838,5 +348838,160 @@
         "Fecha":"2025-08-08",
         "SPOT":"CAUC - P50",
         "Precio":43.85
+    },
+    {
+        "Fecha":"2025-08-01",
+        "SPOT":"CAUC",
+        "Precio":28.0
+    },
+    {
+        "Fecha":"2025-08-04",
+        "SPOT":"CAUC",
+        "Precio":28.0
+    },
+    {
+        "Fecha":"2025-08-05",
+        "SPOT":"CAUC",
+        "Precio":28.9
+    },
+    {
+        "Fecha":"2025-08-06",
+        "SPOT":"CAUC",
+        "Precio":29.0
+    },
+    {
+        "Fecha":"2025-08-07",
+        "SPOT":"CAUC",
+        "Precio":39.88
+    },
+    {
+        "Fecha":"2025-08-08",
+        "SPOT":"CAUC",
+        "Precio":43.85
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"D\u00f3lar BNA",
+        "Precio":1317.5
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"D\u00f3lar MtR",
+        "Precio":1328.5
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"D\u00f3lar BCRA A3500",
+        "Precio":1330.5
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Euro",
+        "Precio":1546.307
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Petr\u00f3leo Crudo WTI CME",
+        "Precio":63.96
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Soja Chicago",
+        "Precio":363.59
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Ma\u00edz Chicago",
+        "Precio":151.57
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Oro CME",
+        "Precio":3383.9
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Indice CCL",
+        "Precio":1330.57
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Yuan CNH",
+        "Precio":184.9175
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"GGAL",
+        "Precio":6780.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"YPFD",
+        "Precio":45500.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"PAMP",
+        "Precio":4000.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"RFX20",
+        "Precio":340386.93
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Indice MEP",
+        "Precio":1323.2
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Indice Bitcoin",
+        "Precio":158374244.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"TXAR",
+        "Precio":640.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"AL30",
+        "Precio":80340.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"AL30D",
+        "Precio":61.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"GD30",
+        "Precio":82890.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"Indice CER",
+        "Precio":614.88
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"D\u00f3lar UST ART 000",
+        "Precio":1322.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"AL35",
+        "Precio":86980.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"GD35",
+        "Precio":88710.0
+    },
+    {
+        "Fecha":"2025-08-11",
+        "SPOT":"CAUC",
+        "Precio":46.0
     }
 ]
