@@ -23982,6 +23982,27 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-11",
+        "Mercado":"B.Blanca",
+        "Producto":"Girasol",
+        "Precio":307.89,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"B.Blanca",
+        "Producto":"Girasol",
+        "Precio":307.88,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"B.Blanca",
+        "Producto":"Girasol",
+        "Precio":307.88,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"B.Blanca",
         "Producto":"Maiz",
@@ -38952,6 +38973,20 @@
         "Mercado":"B.Blanca",
         "Producto":"Maiz",
         "Precio":175.8,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-11",
+        "Mercado":"B.Blanca",
+        "Producto":"Maiz",
+        "Precio":174.8,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"B.Blanca",
+        "Producto":"Maiz",
+        "Precio":171.81,
         "is_outlier":false
     },
     {
@@ -60529,6 +60564,27 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-11",
+        "Mercado":"B.Blanca",
+        "Producto":"Soja",
+        "Precio":291.23,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"B.Blanca",
+        "Producto":"Soja",
+        "Precio":296.02,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"B.Blanca",
+        "Producto":"Soja",
+        "Precio":297.03,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2010-06-03",
         "Mercado":"B.Blanca",
         "Producto":"Sorgo",
@@ -76857,6 +76913,27 @@
         "Mercado":"B.Blanca",
         "Producto":"Trigo",
         "Precio":201.62,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-11",
+        "Mercado":"B.Blanca",
+        "Producto":"Trigo",
+        "Precio":201.62,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"B.Blanca",
+        "Producto":"Trigo",
+        "Precio":201.61,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"B.Blanca",
+        "Producto":"Trigo",
+        "Precio":201.61,
         "is_outlier":false
     },
     {
@@ -120848,6 +120925,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-13",
+        "Mercado":"C\u00f3rdoba",
+        "Producto":"Trigo",
+        "Precio":201.83,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Girasol",
@@ -142184,6 +142268,27 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-11",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Girasol",
+        "Precio":307.89,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Girasol",
+        "Precio":307.88,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Girasol",
+        "Precio":307.88,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2005-01-27",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Maiz",
@@ -150063,6 +150168,27 @@
         "Mercado":"Quequ\u00e9n",
         "Producto":"Maiz",
         "Precio":171.73,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-11",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Maiz",
+        "Precio":169.84,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Maiz",
+        "Precio":168.84,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Maiz",
+        "Precio":172.12,
         "is_outlier":false
     },
     {
@@ -168021,6 +168147,27 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-11",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Soja",
+        "Precio":289.71,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Soja",
+        "Precio":293.74,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Soja",
+        "Precio":293.22,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Trigo",
@@ -178917,6 +179064,27 @@
         "Mercado":"Quequ\u00e9n",
         "Producto":"Trigo",
         "Precio":193.68,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-11",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Trigo",
+        "Precio":193.67,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Trigo",
+        "Precio":193.67,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Trigo",
+        "Precio":193.66,
         "is_outlier":false
     },
     {
@@ -218449,6 +218617,34 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-11",
+        "Mercado":"Rosario",
+        "Producto":"Maiz",
+        "Precio":173.75,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Rosario",
+        "Producto":"Maiz",
+        "Precio":172.3,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Rosario",
+        "Producto":"Maiz",
+        "Precio":172.81,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-14",
+        "Mercado":"Rosario",
+        "Producto":"Maiz",
+        "Precio":172.77,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"Rosario",
         "Producto":"Soja",
@@ -248787,6 +248983,34 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-11",
+        "Mercado":"Rosario",
+        "Producto":"Soja",
+        "Precio":291.23,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Rosario",
+        "Producto":"Soja",
+        "Precio":296.02,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Rosario",
+        "Producto":"Soja",
+        "Precio":297.03,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-14",
+        "Mercado":"Rosario",
+        "Producto":"Soja",
+        "Precio":295.38,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2005-01-21",
         "Mercado":"Rosario",
         "Producto":"Sorgo",
@@ -265304,6 +265528,13 @@
         "Mercado":"Rosario",
         "Producto":"Sorgo",
         "Precio":173.76,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-11",
+        "Mercado":"Rosario",
+        "Producto":"Sorgo",
+        "Precio":173.8,
         "is_outlier":false
     },
     {
@@ -285709,6 +285940,34 @@
         "Mercado":"Rosario",
         "Producto":"Trigo",
         "Precio":203.61,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-11",
+        "Mercado":"Rosario",
+        "Producto":"Trigo",
+        "Precio":201.62,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-12",
+        "Mercado":"Rosario",
+        "Producto":"Trigo",
+        "Precio":201.14,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-13",
+        "Mercado":"Rosario",
+        "Producto":"Trigo",
+        "Precio":201.6,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-14",
+        "Mercado":"Rosario",
+        "Producto":"Trigo",
+        "Precio":201.54,
         "is_outlier":false
     }
 ]
