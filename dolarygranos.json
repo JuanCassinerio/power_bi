@@ -24003,6 +24003,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-15",
+        "Mercado":"B.Blanca",
+        "Producto":"Girasol",
+        "Precio":307.85,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2004-12-30",
         "Mercado":"B.Blanca",
         "Producto":"Maiz",
@@ -38987,6 +38994,13 @@
         "Mercado":"B.Blanca",
         "Producto":"Maiz",
         "Precio":171.81,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-15",
+        "Mercado":"B.Blanca",
+        "Producto":"Maiz",
+        "Precio":173.79,
         "is_outlier":false
     },
     {
@@ -76934,6 +76948,13 @@
         "Mercado":"B.Blanca",
         "Producto":"Trigo",
         "Precio":201.61,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-15",
+        "Mercado":"B.Blanca",
+        "Producto":"Trigo",
+        "Precio":201.59,
         "is_outlier":false
     },
     {
@@ -150192,6 +150213,13 @@
         "is_outlier":false
     },
     {
+        "Fecha":"2025-08-15",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Maiz",
+        "Precio":169.82,
+        "is_outlier":false
+    },
+    {
         "Fecha":"2005-04-05",
         "Mercado":"Quequ\u00e9n",
         "Producto":"Soja",
@@ -168165,6 +168193,13 @@
         "Mercado":"Quequ\u00e9n",
         "Producto":"Soja",
         "Precio":293.22,
+        "is_outlier":false
+    },
+    {
+        "Fecha":"2025-08-15",
+        "Mercado":"Quequ\u00e9n",
+        "Producto":"Soja",
+        "Precio":297.92,
         "is_outlier":false
     },
     {
@@ -775093,6 +775128,195 @@
         "Mercado":"",
         "Producto":"RFX20",
         "Precio":323503.65,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-15",
+        "Mercado":"",
+        "Producto":"Oro CME",
+        "Precio":3336.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-15",
+        "Mercado":"",
+        "Producto":"Petr\u00f3leo Crudo WTI CME",
+        "Precio":62.8,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Petr\u00f3leo Crudo WTI CME",
+        "Precio":63.42,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Soja Chicago",
+        "Precio":375.07,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Oro CME",
+        "Precio":3331.7,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Ma\u00edz Chicago",
+        "Precio":150.78,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Euro",
+        "Precio":1516.128,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"D\u00f3lar BCRA A3500",
+        "Precio":1298.8333,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"D\u00f3lar MtR",
+        "Precio":1302.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"D\u00f3lar BNA",
+        "Precio":1288.5,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"RFX20",
+        "Precio":325519.28,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"PAMP",
+        "Precio":3900.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Indice Bitcoin",
+        "Precio":151600864.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Indice MEP",
+        "Precio":1298.7,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"YPFD",
+        "Precio":43975.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"GGAL",
+        "Precio":6380.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Yuan CNH",
+        "Precio":180.7022,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Indice CCL",
+        "Precio":1302.01,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"CAUC",
+        "Precio":51.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"GD35",
+        "Precio":87950.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"AL35",
+        "Precio":86330.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"D\u00f3lar UST ART 000",
+        "Precio":1293.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"Indice CER",
+        "Precio":617.26,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"GD30",
+        "Precio":81700.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"AL30D",
+        "Precio":61.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"AL30",
+        "Precio":79450.0,
+        "is_outlier":null
+    },
+    {
+        "Fecha":"2025-08-18",
+        "Mercado":"",
+        "Producto":"TXAR",
+        "Precio":605.0,
         "is_outlier":null
     }
 ]
