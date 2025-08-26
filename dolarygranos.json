@@ -283773,6 +283773,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"AL30",
+        "Precio":79410.0,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2024-04-30",
         "Mercado":"Bolsa",
         "Producto":"AL30D",
@@ -286013,6 +286020,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"AL30D",
+        "Precio":61.0,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2025-05-21",
         "Mercado":"Bolsa",
         "Producto":"AL35",
@@ -286451,6 +286465,13 @@
         "Mercado":"Bolsa",
         "Producto":"AL35",
         "Precio":85200.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"AL35",
+        "Precio":86090.0,
         "is_outlier":"Safe"
     },
     {
@@ -299884,6 +299905,13 @@
         "Mercado":"Bolsa",
         "Producto":"CAUC",
         "Precio":55.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"CAUC",
+        "Precio":51.99,
         "is_outlier":"Safe"
     },
     {
@@ -480648,6 +480676,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"GD30",
+        "Precio":81570.0,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2025-05-21",
         "Mercado":"Bolsa",
         "Producto":"GD35",
@@ -481086,6 +481121,13 @@
         "Mercado":"Bolsa",
         "Producto":"GD35",
         "Precio":87170.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"GD35",
+        "Precio":88000.0,
         "is_outlier":"Safe"
     },
     {
@@ -488989,6 +489031,13 @@
         "Mercado":"Bolsa",
         "Producto":"GGAL",
         "Precio":6040.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"GGAL",
+        "Precio":6090.0,
         "is_outlier":"Safe"
     },
     {
@@ -519320,6 +519369,13 @@
         "Mercado":"Bolsa",
         "Producto":"Indice CER",
         "Precio":619.89,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"Indice CER",
+        "Precio":618.39,
         "is_outlier":"Safe"
     },
     {
@@ -559430,6 +559486,13 @@
         "Mercado":"Chicago",
         "Producto":"Maiz",
         "Precio":153.34,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Chicago",
+        "Producto":"Maiz",
+        "Precio":143.11,
         "is_outlier":"Safe"
     },
     {
@@ -607352,6 +607415,13 @@
         "Mercado":"Bolsa",
         "Producto":"PAMP",
         "Precio":3750.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"PAMP",
+        "Precio":3755.0,
         "is_outlier":"Safe"
     },
     {
@@ -696640,6 +696710,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-21",
+        "Mercado":"Chicago",
+        "Producto":"Soja",
+        "Precio":380.39,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2003-01-02",
         "Mercado":"Bolsa",
         "Producto":"Soja Spot BCR",
@@ -724735,6 +724812,13 @@
         "Mercado":"Bolsa",
         "Producto":"TXAR",
         "Precio":600.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"TXAR",
+        "Precio":597.0,
         "is_outlier":"Safe"
     },
     {
@@ -763291,6 +763375,13 @@
         "Mercado":"Bolsa",
         "Producto":"YPFD",
         "Precio":42500.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-21",
+        "Mercado":"Bolsa",
+        "Producto":"YPFD",
+        "Precio":41750.0,
         "is_outlier":"Safe"
     },
     {
