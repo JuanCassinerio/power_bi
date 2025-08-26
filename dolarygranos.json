@@ -372561,6 +372561,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"D\u00f3lar BCRA A3500",
+        "Precio":1344.1667,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2003-01-03",
         "Mercado":"Bolsa",
         "Producto":"D\u00f3lar BNA",
@@ -411278,6 +411285,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"D\u00f3lar BNA",
+        "Precio":1357.5,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2020-01-02",
         "Mercado":"Bolsa",
         "Producto":"D\u00f3lar MtR",
@@ -420868,6 +420882,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"D\u00f3lar MtR",
+        "Precio":1345.0,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2025-05-12",
         "Mercado":"Bolsa",
         "Producto":"D\u00f3lar UST ART 000",
@@ -421355,6 +421376,13 @@
         "Mercado":"Bolsa",
         "Producto":"D\u00f3lar UST ART 000",
         "Precio":1321.0,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"D\u00f3lar UST ART 000",
+        "Precio":1362.0,
         "is_outlier":"Safe"
     },
     {
@@ -472049,6 +472077,13 @@
         "Mercado":"Bolsa",
         "Producto":"Euro",
         "Precio":1534.094,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"Euro",
+        "Precio":1572.272,
         "is_outlier":"Safe"
     },
     {
@@ -631967,6 +632002,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"Petr\u00f3leo Crudo WTI CME",
+        "Precio":64.8,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2017-01-03",
         "Mercado":"Bolsa",
         "Producto":"RFX20",
@@ -646881,6 +646923,13 @@
         "Mercado":"Bolsa",
         "Producto":"RFX20",
         "Precio":312194.07,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"RFX20",
+        "Precio":299476.94,
         "is_outlier":"Safe"
     },
     {
@@ -771327,6 +771376,13 @@
         "Mercado":"Bolsa",
         "Producto":"Yuan CNH",
         "Precio":184.2853,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-08-25",
+        "Mercado":"Bolsa",
+        "Producto":"Yuan CNH",
+        "Precio":187.9454,
         "is_outlier":"Safe"
     }
 ]
