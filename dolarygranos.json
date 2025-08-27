@@ -647430,6 +647430,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-08-26",
+        "Mercado":"Bolsa",
+        "Producto":"RFX20",
+        "Precio":301846.82,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2003-01-02",
         "Mercado":"Bolsa",
         "Producto":"Real",
