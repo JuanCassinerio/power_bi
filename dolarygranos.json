@@ -526470,6 +526470,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-09-01",
+        "Mercado":"Bolsa",
+        "Producto":"Indice MEP",
+        "Precio":1166.0,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2015-01-02",
         "Mercado":"Bolsa",
         "Producto":"Indice Merval",
