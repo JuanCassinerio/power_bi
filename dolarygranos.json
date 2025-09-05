@@ -648977,6 +648977,13 @@
         "is_outlier":"Safe"
     },
     {
+        "Fecha":"2025-09-04",
+        "Mercado":"Bolsa",
+        "Producto":"RFX20",
+        "Precio":297571.91,
+        "is_outlier":"Safe"
+    },
+    {
         "Fecha":"2003-01-02",
         "Mercado":"Bolsa",
         "Producto":"Real",
@@ -698534,6 +698541,13 @@
         "Mercado":"Chicago",
         "Producto":"Soja",
         "Precio":373.32,
+        "is_outlier":"Safe"
+    },
+    {
+        "Fecha":"2025-09-04",
+        "Mercado":"Chicago",
+        "Producto":"Soja",
+        "Precio":371.85,
         "is_outlier":"Safe"
     },
     {
